@@ -1,0 +1,54 @@
+D:\Programe\ProgrameC\Masina\Masina\bin\Debug\Masina.exe.config
+D:\Programe\ProgrameC\Masina\Masina\obj\Debug\Masina.csprojResolveAssemblyReference.cache
+D:\Programe\ProgrameC\Masina\Masina\obj\Debug\Masina.Form1.resources
+D:\Programe\ProgrameC\Masina\Masina\obj\Debug\Masina.Properties.Resources.resources
+D:\Programe\ProgrameC\Masina\Masina\obj\Debug\Masina.csproj.GenerateResource.Cache
+D:\Programe\ProgrameC\Masina\Masina\bin\Debug\Masina.exe
+D:\Programe\ProgrameC\Masina\Masina\bin\Debug\Masina.pdb
+D:\Programe\ProgrameC\Masina\Masina\obj\Debug\Masina.exe
+D:\Programe\ProgrameC\Masina\Masina\obj\Debug\Masina.pdb
+C:\Users\Robi\Desktop\Masina\Masina\bin\Debug\Masina.exe.config
+C:\Users\Robi\Desktop\Masina\Masina\bin\Debug\Masina.exe
+C:\Users\Robi\Desktop\Masina\Masina\bin\Debug\Masina.pdb
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.csprojResolveAssemblyReference.cache
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.Form1.resources
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.Properties.Resources.resources
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.csproj.GenerateResource.Cache
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.csproj.CoreCompileInputs.cache
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.exe
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.pdb
+C:\Users\Robi\Desktop\Masina\Masina\obj\Debug\Masina.Form2.resources
+C:\Users\norbi\Desktop\Masina\Masina\bin\Debug\Masina.exe.config
+C:\Users\norbi\Desktop\Masina\Masina\bin\Debug\Masina.exe
+C:\Users\norbi\Desktop\Masina\Masina\bin\Debug\Masina.pdb
+C:\Users\norbi\Desktop\Masina\Masina\obj\Debug\Masina.Form1.resources
+C:\Users\norbi\Desktop\Masina\Masina\obj\Debug\Masina.Form2.resources
+C:\Users\norbi\Desktop\Masina\Masina\obj\Debug\Masina.Properties.Resources.resources
+C:\Users\norbi\Desktop\Masina\Masina\obj\Debug\Masina.csproj.GenerateResource.cache
+C:\Users\norbi\Desktop\Masina\Masina\obj\Debug\Masina.csproj.CoreCompileInputs.cache
+C:\Users\norbi\Desktop\Masina\Masina\obj\Debug\Masina.exe
+C:\Users\norbi\Desktop\Masina\Masina\obj\Debug\Masina.pdb
+C:\Users\Home\Desktop\Masina\Masina\Masina\bin\Debug\Masina.exe.config
+C:\Users\Home\Desktop\Masina\Masina\Masina\bin\Debug\Masina.exe
+C:\Users\Home\Desktop\Masina\Masina\Masina\bin\Debug\Masina.pdb
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.Form1.resources
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.Form2.resources
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.Properties.Resources.resources
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.exe
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.pdb
+C:\Users\Home\Desktop\Masina\Masina\Masina\obj\Debug\Masina.Arbore.resources
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\bin\Debug\Masina.exe.config
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\bin\Debug\Masina.exe
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\bin\Debug\Masina.pdb
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.csprojResolveAssemblyReference.cache
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.Arbore.resources
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.Form1.resources
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.Form2.resources
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.Properties.Resources.resources
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.csproj.GenerateResource.cache
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.csproj.CoreCompileInputs.cache
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.exe
+C:\Users\norbi\Desktop\MASINA ASD CEL MAI BUN\Masina\Masina\Masina\obj\Debug\Masina.pdb
